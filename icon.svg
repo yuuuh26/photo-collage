@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="FullFrame Collage">
+  <rect width="512" height="512" rx="112" fill="#111318"/>
+  <rect x="96" y="126" width="250" height="218" rx="38" fill="#20252e" stroke="#ffffff" stroke-width="18"/>
+  <circle cx="168" cy="198" r="27" fill="#74e0b5"/>
+  <path d="M126 306l72-76 47 44 37-35 50 67z" fill="#74e0b5"/>
+  <rect x="190" y="174" width="226" height="212" rx="38" fill="#151820" stroke="#74e0b5" stroke-width="18"/>
+  <circle cx="344" cy="238" r="24" fill="#ffffff"/>
+  <path d="M216 350l65-68 43 40 33-31 37 59z" fill="#ffffff"/>
+</svg>
